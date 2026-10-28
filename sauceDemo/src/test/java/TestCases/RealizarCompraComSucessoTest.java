@@ -24,7 +24,10 @@ public class RealizarCompraComSucessoTest extends TestBase {
         produtoTask.selecionarProduto();
         checkoutTask.preencherCheckout();
         finishTask.finalizarCompra();
+<<<<<<< HEAD
 
+=======
+>>>>>>> upstream/master
 
     }
 
